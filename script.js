@@ -1,5 +1,5 @@
 var scene, camera, renderer, controls, colors, activeModel
-const MODEL_PATH = 'model/chair.glb'
+const MODEL_PATH = 'model/room.glb'
 
 colors = [{
     color: '131417' },
